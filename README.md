@@ -1,4 +1,5 @@
 # Jewar Safeno Jara
+![Profile Photo](https://your-photo-url.jpg)
 
 **Senior Lecturer & Researcher**  
 Department of General Forestry | Mizan-Tepi University, Ethiopia
